@@ -1,5 +1,8 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
+link to the live app
+https://love-sandwiches-zm.herokuapp.com/
+
 Welcome zainabmeerza,
 
 This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **August 17, 2021**
